@@ -143,9 +143,10 @@ npm run deploy
 https://**<username>.github.io/<repository-name>.**  
 ```
 
-
+--------------------------------------------------------------------  
 **Author: LegendMind**  
-Convey your comments through **spaceisnotnull@gmail.com** if you find this useful please. Thanks.
+Convey your comments through **spaceisnotnull@gmail.com** if you find this useful please. Thanks.  
+--------------------------------------------------------------------
 
 
 
