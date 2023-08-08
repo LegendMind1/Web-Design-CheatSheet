@@ -144,7 +144,7 @@ https://**<username>.github.io/<repository-name>.**
 ```
 
 
-**Author: LegendMind**
+**Author: LegendMind**  
 Convey your comments through **spaceisnotnull@gmail.com** if you find this useful please. Thanks.
 
 
