@@ -138,11 +138,14 @@ npm install gh-pages
 npm run deploy
 ```
 
-- Your application is now deployed to GitHub and you can visit it at https://**<username>.github.io/<repository-name>.**  
+- Your application is now deployed to GitHub and you can visit it at 
+```console
+https://**<username>.github.io/<repository-name>.**  
+```
 
 
 **Author: LegendMind**
-Leave comments if you find this useful please. Thanks
+Convey your comments through **spaceisnotnull@gmail.com** if you find this useful please. Thanks.
 
 
 
