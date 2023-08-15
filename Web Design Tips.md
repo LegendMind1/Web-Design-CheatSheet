@@ -52,6 +52,17 @@
  </div>
 ```
 
-
-
 Note: The best way to center a div is to use flexbox or grid in TailwindCSS.
+
+
+
+## Setting Custom default Font color and size 
+
+```console 
+@layer base{
+      body{
+          @apply text-gray-500 text-xl
+            }
+            }
+}
+```
